@@ -10,7 +10,7 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
-/*Business P10.33  Implement a graphical application that simulates a cash register. Provide a text field
+/*Business P10.33   Implement a graphical application that simulates a cash register. Provide a text field
  for the item price and two buttons for adding the item to the sale, one for taxable
  items and one for non-taxable items. In a text area, display the register tape that lists
  all items (labeling the taxable items with a *), followed by the amount due. Provide
